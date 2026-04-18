@@ -1,0 +1,14 @@
+{
+  "name": "ai-phone-agent-groq",
+  "version": "1.0.0",
+  "description": "AI Voice Agent using Twilio + Groq (LLaMA 3) - Free!",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "twilio": "^4.23.0"
+  }
+}
